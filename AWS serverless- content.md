@@ -1,8 +1,4 @@
-Here's a detailed 2-hour **Serverless Computing Workshop** content plan that aligns with your outline. This includes **key talking points, demo suggestions, and hands-on activities** where possible.
-
----
-
-## 🎓 **Serverless Computing Workshop – 2 Hours**
+## **Serverless Computing Workshop **
 
 ---
 
